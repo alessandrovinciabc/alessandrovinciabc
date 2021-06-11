@@ -11,4 +11,5 @@ I'm a Fullstack Web Developer. I love programming and learning.
 - Javascript / (Typescript in progress)
 - React
 - Node.js
+- Express
 - Mongoose (MongoDB)
