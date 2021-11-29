@@ -8,8 +8,8 @@ I'm a Fullstack Web Developer. I love programming and learning.
 
 - HTML
 - CSS
-- Javascript / (Typescript in progress)
-- React
+- Javascript / Typescript
+- React / React Native
 - Node.js
 - Express
 - Mongoose (MongoDB)
